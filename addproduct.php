@@ -86,7 +86,7 @@ if($flag)
         </div>
         <!--  -->
         <div class="row mb-3">
-            <label for="" class="col-lg-4">category ID (C001 or C002):</label>
+            <label for="" class="col-lg-4">category ID :</label>
             <div class="col-lg-8">
                 <input type="text" class="form-control" name="pcatid">
                 <br>
